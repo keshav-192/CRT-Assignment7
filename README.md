@@ -68,8 +68,8 @@ Contributions are welcome! Feel free to fork the repo and submit a pull request.
 
 ## 📬 Contact
 
-Made with ❤️ by Raiyan(#)  
-📧 Reach me at: 231fa04c91@gmail.com
+Made with by Keshav Singh(#)  
+📧 Reach me at: 231fa04g36@gmail.com
 
 ---
 
